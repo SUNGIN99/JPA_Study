@@ -1,2 +1,4 @@
 # JPA_Study
 JPA, ORM 공부기록
+
+[1. JPA시작_연관관계](https://github.com/SUNGIN99/JPA_Study/blob/541ce25ce00628f06dd1303609d57c3a0cae277b/%EC%9D%B4%EB%A1%A0%EA%B8%B0%EB%A1%9D/1.%20JPA%EC%8B%9C%EC%9E%91_%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84.md)
